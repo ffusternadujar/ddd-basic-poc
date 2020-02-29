@@ -1,4 +1,4 @@
-package com.fustware.ddd.basic.poc.usecase;
+package com.fustware.ddd.basic.poc.usecase.fiscalization;
 
 import com.fustware.ddd.basic.poc.ddd.UseCase;
 
